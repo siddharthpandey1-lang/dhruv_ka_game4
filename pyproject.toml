@@ -1,0 +1,10 @@
+[project]
+name = "dhruv-ka-game4"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cricket>=0.2.5",
+    "pygame>=2.6.1",
+]
